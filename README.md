@@ -3,7 +3,7 @@ This is A Movie Website made using HTML, CSS, and Vanilla Javascript.
 
 ## View:
 
-https://satyaprakash26.github.io/365-Entertainment/
+https://muskan467.github.io/365-Entertainment/
 
 ## Functionalities:
 
